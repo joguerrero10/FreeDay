@@ -30,7 +30,7 @@ FreeDay es una aplicación que permite a los empleados solicitar vacaciones y a 
 
 4. Ejecuta la aplicación: 
    ```bash
-   npm start
+   npm serve -o
 
 Contribuciones: Las contribuciones son bienvenidas. Si deseas colaborar, por favor abre un issue o un pull request.
 
