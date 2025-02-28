@@ -20,7 +20,7 @@ FreeDay es una aplicación que permite a los empleados solicitar vacaciones y a 
 **Instalación:**
 1. Clona el repositorio:
    ```bash
-   git clone <url_del_repositorio>
+   git clone https://github.com/joguerrero10/FreeDay.git
 
 2. Instala las dependencias:
    npm install
