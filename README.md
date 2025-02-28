@@ -1,2 +1,34 @@
-# FreeDay
-FreeDay simplifica la gestión de solicitudes de vacaciones. Los empleados pueden solicitar tiempo libre, y los supervisores y RRHH aprueban o rechazan fácilmente. Con integración a calendarios y un panel de administración, optimiza el seguimiento de días disponibles y reportes. Todo con autenticación segura y una interfaz fácil de usar.
+# FreeDay - Aplicación de Gestión de Vacaciones
+
+**Descripción:**
+FreeDay es una aplicación que permite a los empleados solicitar vacaciones y a los supervisores y Recursos Humanos aprobar o rechazar las solicitudes. Integra calendarios corporativos para mantener a todos informados y ofrece un panel de administración para gestionar días disponibles, generar reportes y exportar datos.
+
+**Características:**
+- Solicitudes de vacaciones por parte de los empleados.
+- Aprobación o rechazo por supervisores y RRHH.
+- Integración con calendarios.
+- Panel de administración para RRHH.
+- Autenticación mediante correos corporativos.
+- Reportes y exportación de datos.
+
+**Tecnologías utilizadas:**
+- JavaScript
+- Firebase
+- MongoDB
+- Angular
+
+**Instalación:**
+1. Clona el repositorio:
+   ```bash
+   git clone <url_del_repositorio>
+
+2. Instala las dependencias:
+   npm install
+
+3. Configura el archivo .env con tus credenciales de Firebase.
+
+4. Ejecuta la aplicación: npm start
+
+Contribuciones: Las contribuciones son bienvenidas. Si deseas colaborar, por favor abre un issue o un pull request.
+
+Licencia: Este proyecto está bajo la licencia MIT.
