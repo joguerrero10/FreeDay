@@ -23,11 +23,14 @@ FreeDay es una aplicación que permite a los empleados solicitar vacaciones y a 
    git clone https://github.com/joguerrero10/FreeDay.git
 
 2. Instala las dependencias:
+   ```bash
    npm install
 
 3. Configura el archivo .env con tus credenciales de Firebase.
 
-4. Ejecuta la aplicación: npm start
+4. Ejecuta la aplicación: 
+   ```bash
+   npm start
 
 Contribuciones: Las contribuciones son bienvenidas. Si deseas colaborar, por favor abre un issue o un pull request.
 
